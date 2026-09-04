@@ -1,0 +1,26 @@
+Senior Backend Distributed Systems Engineer
+Company: CloudScale Inc.
+Location: San Francisco, CA (Hybrid)
+Employment Type: Full-time
+
+ABOUT THE ROLE:
+CloudScale is building next-generation enterprise infrastructure for real-time stream processing.
+We are looking for a Senior Backend Engineer to design, scale, and optimize high-throughput distributed microservices.
+
+RESPONSIBILITIES:
+- Architect and scale distributed event-streaming services handling millions of events daily.
+- Optimize database performance, cache invalidation, and microservice latencies.
+- Mentor engineers and lead technical design reviews.
+- Partner with DevOps to manage Kubernetes infrastructure and CI/CD pipelines.
+
+MUST-HAVE REQUIREMENTS:
+- 5+ years of experience with Python or Go in production distributed environments (Required)
+- Demonstrated expertise with Kafka, event-driven streaming, and messaging architectures (Required)
+- Deep experience with Redis, PostgreSQL, and high-performance database optimization (Required)
+- Proficiency with Docker, Kubernetes (K8s), and cloud infrastructure such as AWS or GCP (Required)
+- Strong foundation in REST API design and distributed system patterns (Required)
+
+NICE-TO-HAVE:
+- Experience with GraphQL APIs and TypeScript frontend integration (Preferred)
+- Contributions to open-source developer tooling projects (A plus)
+- Familiarity with Terraform and infrastructure-as-code

@@ -1,0 +1,29 @@
+Alex Mercer
+San Francisco, CA | alex.mercer@example.com | +1-555-0199 | https://linkedin.com/in/alexmercer | https://alexmercer.dev
+
+SUMMARY
+Full-stack software engineer with 5+ years of experience building high-scale distributed systems and cloud web applications.
+
+WORK EXPERIENCE
+Acme Cloud Corp — Senior Software Engineer
+San Francisco, CA | 2022-03 to Present
+- Architected real-time event streaming pipeline processing 20M+ events/day using Kafka and FastAPI.
+- Reduced p99 API latency by 45% by implementing Redis caching and database query optimization.
+
+Nexus Systems — Software Engineer
+Seattle, WA | 2019-06 to 2022-02
+- Developed customer analytics dashboard in React, TypeScript, and GraphQL used by 15,000+ monthly active users.
+- Automated CI/CD deployment pipelines using GitHub Actions and Docker, reducing release cycle time by 60%.
+
+EDUCATION
+University of Washington — B.S. in Computer Science
+Graduated May 2019
+
+SKILLS
+Technical: Python, TypeScript, React, FastAPI, GraphQL, PostgreSQL, Kafka, Redis
+Tools: Docker, Kubernetes, AWS, Git, GitHub Actions
+Soft Skills: Cross-functional Leadership, System Design, Agile Mentorship
+Languages: English, Spanish
+
+CERTIFICATIONS
+- AWS Certified Solutions Architect - Associate

@@ -1,0 +1,18 @@
+[
+  {
+    "id": "local_data_pipeline",
+    "name": "data_pipeline",
+    "source": "local",
+    "source_ref": "test_projects/data_pipeline",
+    "description_raw": "# Data Pipeline\nA distributed data pipeline using Python, Kafka, and Redis.\n",
+    "tech_stack": [
+      "Python"
+    ],
+    "start_date": null,
+    "end_date": null,
+    "last_active_date": null,
+    "visibility": "unknown",
+    "links": {},
+    "reviewed_by_user": false
+  }
+]

@@ -1,0 +1,11 @@
+Company: ChatFin
+Role: Software Engineer - AI Product
+Duration: 5 months (Internship) -> Full-Time Offer based on performance
+Location: Remote
+
+Requirements:
+- Strong expertise in JavaScript, TypeScript, and Node.js backend technologies
+- Familiarity with frontend frameworks such as Vue.js, React.js, or Angular
+- Knowledge of SQL technologies such as MySQL or PostgreSQL
+- Understanding of machine learning, natural language processing, or LangChain is an added advantage
+- Full-stack engineering, API design, performance optimization, and scalable AI workflows
